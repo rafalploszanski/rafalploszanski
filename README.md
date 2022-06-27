@@ -8,7 +8,7 @@ I am a programmer fullstack  from Poland  🇵🇱.
 <br>Programming languages</br>
 <br><img align="left" alt="python" src="https://img.shields.io/badge/python%20-%23316192.svg?&style=for-the-badge&logo=python&logoColor=yellow" /><img align="left" alt="django" src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" /></br>
 <br>Music is my hobby, so below is a link to the best string quartet in the world - CHORDAMORE QUARTET. 🎻</br>
-<br><br>[<img align="left" alt="YouTube" src="https://img.shields.io/badge/My%20Playlist-YouTube-red?logo=youtube&style=social" />](https://youtube.com/playlist?list=PLKYuc2v8reDBzy94nhGqW2-0Ctt51zU2_)</b>
+<br>[<img align="left" alt="YouTube" src="https://img.shields.io/badge/My%20Playlist-YouTube-red?logo=youtube&style=social" />](https://youtube.com/playlist?list=PLKYuc2v8reDBzy94nhGqW2-0Ctt51zU2_)</b>
 
 
 
