@@ -1,6 +1,6 @@
 ### Hello World 🤪
 I'm a beginner fullstack developer with Polish  🇵🇱. 
-* Working on multiple frontend and backend project using Python and Django. 
+* Learning multiple frontend and backend projects using Python, Django, Postgres, HTML and CSS. 
 * I learn all the time and have a lot of fun at the same time.
 
 ### **And I have a very fucking mentor**
