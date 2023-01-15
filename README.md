@@ -17,4 +17,4 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black"/><br>
 <br>
 #### **Music is my hobby, so below is a link to the best string quartet in the world - CHORDAMORE QUARTET.** 🎻
-[<img align="left" alt="YouTube" src="https://img.shields.io/badge/My%20Playlist-YouTube-red?logo=youtube&style=social" />](https://youtube.com/playlist?list=PLKYuc2v8reDBzy94nhGqW2-0Ctt51zU2_)<br>
+<img align="left" alt="YouTube" src="https://img.shields.io/badge/My%20Playlist-YouTube-red?logo=youtube&style=social" />](https://youtube.com/playlist?list=PLKYuc2v8reDBzy94nhGqW2-0Ctt51zU2_)<br><br>
