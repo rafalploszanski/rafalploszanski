@@ -26,4 +26,4 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalploszanski&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalploszanski&layout=compact)
