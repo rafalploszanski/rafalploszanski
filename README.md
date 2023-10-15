@@ -20,5 +20,5 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 #### **Music is my hobby, so below is a link to the best string quartet in the world - CHORDAMORE QUARTET.** 🎻
 [<img align="left" alt="YouTube" src="https://img.shields.io/badge/My%20Playlist-YouTube-red?logo=youtube&style=social" />](https://youtube.com/playlist?list=PLKYuc2v8reDBzy94nhGqW2-0Ctt51zU2_)<br><br>
 
-
+## **My GitHub Streak**
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalploszanski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
