@@ -30,3 +30,6 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalploszanski&layout=compact&theme=dark)
+
+
+![Codewars](https://github.r2v.ch/codewars?user=rafalploszanski&name=true&top_languages=true&stroke=%23b362ff&theme=dark)
