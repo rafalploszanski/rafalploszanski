@@ -24,12 +24,14 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 
 <hr width="100%" align="center">
 
-### *My GitHub*
+### *My GitHub Stats*
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalploszanski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalploszanski&layout=compact&theme=dark)
 
+<hr width="100%" align="center">
 
+### *Codewars Stats*
 ![Codewars](https://github.r2v.ch/codewars?user=rafalploszanski&name=true&top_languages=true&stroke=%23b362ff&theme=dark)
