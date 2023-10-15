@@ -1,5 +1,4 @@
 ## **Hello World** 🤪
-<hr width="100%" align="center">
 I'm a beginner fullstack developer with Polish  🇵🇱. 
 * Learning multiple frontend and backend projects using Python, Django, Postgres, HTML and CSS. 
 * I learn all the time and have a lot of fun at the same time.
