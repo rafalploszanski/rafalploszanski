@@ -23,4 +23,4 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 ### *My GitHub Streak*
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalploszanski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafalploszanski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+https://www.codewars.com/users/rafalploszanski/badges/large
