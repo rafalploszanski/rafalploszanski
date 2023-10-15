@@ -24,3 +24,5 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalploszanski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
 
 ![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true&theme=transparent)
