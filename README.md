@@ -3,12 +3,11 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 * Learning multiple frontend and backend projects using Python, Django, Postgres, HTML and CSS. 
 * I learn all the time and have a lot of fun at the same time.
 
-### **Connect with me**
-<hr>
+### Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafał-płoszański-78391513a)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rafalploszanski)[<img align="left" alt="codewars" src="https://img.shields.io/badge/codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/rafalploszanski)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RafalPloszanski)[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack overflow-F58025?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/19541021/rafi-rp?tab=profile)<br>
 
 ### **Programming languages**
-<hr>
 <img align="left" alt="python" src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow" />
 <img align="left" alt="django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/Postgres-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
