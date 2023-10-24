@@ -35,3 +35,16 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 
 ### *Codewars Stats*
 ![Codewars](https://github.r2v.ch/codewars?user=rafalploszanski&name=true&top_languages=true&stroke=%23b362ff&theme=dark)
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true" />
+</picture>
