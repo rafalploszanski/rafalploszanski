@@ -25,7 +25,7 @@ I'm a beginner fullstack developer with Polish  🇵🇱.
 <hr width="100%" align="center">
 
 ### *My GitHub Stats*
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalploszanski&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalploszanski&theme=dark" alt="GitHub Streak" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalploszanski&show_icons=true&theme=dark)
 
